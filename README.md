@@ -1,10 +1,9 @@
-# Vagrant Build Template 
+# Vagrant Build Template
 ```
 Prerequisites:
 - Vagrant
 - Ruby
 ```
-
 
 # Install dependencies
 ```
